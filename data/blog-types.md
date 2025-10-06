@@ -42,3 +42,29 @@
 - Docker & Kubernetes - Helm Charts
 - IaaS: Terraform
 
+# Menu Options
+1. Agentic
+  - Vibe coding
+  - Context Engineering
+  - Agentic Automation
+2 Software Design
+  - Frontend
+  - Backend
+  - Application Architecture
+1. Data & ML
+  - Data Engineering
+  - ML Engineering
+  - Data Pipeline Architecture
+2. Database
+  - SQL
+  - NoSQL
+  - Columnar
+  - GraphDB
+  - DataLake
+  - Filesystem
+3. QA & Devops
+  - QA Automation
+  - CI Automation
+  - CD Automation
+  - Infra Automtion
+  - Maintenence Automation
